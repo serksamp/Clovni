@@ -1,0 +1,13 @@
+{
+  "token": "MTA5NDIyODY1ODU3MjUwNTEzOA.Gkl0vY.7Zr7HqW_q3RsHhBG0MYs3caniqxG1-VqklRJ98",
+  "prefix": "!",
+  "activity_type": "Watching",
+  "activity_name": "Clovni",
+  "disable_help": false,
+  "hide_ips": false,
+  "notification_channel": 1234,
+  "retries": 0,
+  "role_to_mention": 1234,
+  "secs_between_ping": 30,
+  "timeout": 5
+}
