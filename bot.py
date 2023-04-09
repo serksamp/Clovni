@@ -13,7 +13,7 @@ from discord.ext import commands
 from re import search
 import threading
 import psutil
-token = "MTA5NDIyODY1ODU3MjUwNTEzOA.Gkl0vY.7Zr7HqW_q3RsHhBG0MYs3caniqxG1-VqklRJ98"
+token = "MTA5NDIyODY1ODU3MjUwNTEzOA.GRurlN.FbMqfBdI50YcWJyZ31ih6vll8kGXCERa21MY7w"
 buyers = [1090244522149167196]
 admins = [1090244522149167196]
 ownerList = [1090244522149167196]
